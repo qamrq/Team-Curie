@@ -7,7 +7,7 @@ A diverse community working together to achieve a common aim... We are enthusias
 
 ## Contributors
 
-Names (Pictures if any !) to be listed starting from Team Lead Name Amandeep, Bhuvan, Peter, Matthew, Sooraj, Sophie, Tasneem,Tosin, Umasri, Maansi, Darshana, Ayush, Neha, Ananya
+Names (Pictures if any !) to be listed starting from Team Lead Name Amandeep, Bhuvan, Peter, Matthew, Sooraj, Sophie, Tasneem,Tosin, Umasri, Maansi, Darshana, Ayush, Neha, Ananya, Qamar
 
 ![Amandeep] <img src="https://user-images.githubusercontent.com/88246395/128064884-ed8f1453-611a-4cda-9890-777cd80d140b.jpg" width="200" height="200">
 
@@ -33,6 +33,7 @@ Names (Pictures if any !) to be listed starting from Team Lead Name Amandeep, Bh
 
 ![Ananya] <img src="https://user-images.githubusercontent.com/88286303/128016685-50b60d7f-c532-4856-93e6-57bb4173de6d.jpg" width="200" height="200">
 
+![Qamar] <img src="https://user-images.githubusercontent.com/78408875/128223927-2f77fa04-d8ac-4e80-9cf9-d9f48d63f381.jpg" width="200" height="200">
 
 
 
